@@ -17,8 +17,8 @@ Reference from paper:*Back-Guard : Parallel Attention Model based User Activity 
 ![](figs/1.7.png)<br>
 ![](figs/1.8.png)<br>
 ### 2.Summer exchange in Shanghai JiaoTong University(SJTU)
+https://github.com/ChampionNan/AI-interaction-in-sjtu/blob/master/Lab%20report.pdf (Detailed lab report)
 ![](figs/2.5.png)<br>
-https://github.com/ChampionNan/AI-interaction-in-sjtu/blob/master/Lab%20report.pdf(Detailed lab report)
 ## projects
 ### 1.C minus compiler(Supervisor:Prof.Cheng Li)
 #### (1)Lexical analyzer
